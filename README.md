@@ -14,7 +14,7 @@
 
   
 
-[Go](https://go.dev) application starter repository using the guide ['# Aplicações escaláveis com Go Lang'](https://www.youtube.com/watch?v=nTmZlzwTErM) provided from [Full Cycle on Youtube](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA).
+[Go](https://go.dev) application starter repository using the guide ['Aplicações escaláveis com Go Lang'](https://www.youtube.com/watch?v=nTmZlzwTErM) provided from [Full Cycle on Youtube](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA).
 
   
 
