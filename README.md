@@ -1,8 +1,4 @@
 <p  align="center">
-<a  href="https://www.instagram.com/devfullcycle/"  target="blank"><img  src="https://fullcycle.com.br/wp-content/themes/fullcycle-blog/application/img/logo-fullcycle.png"/></a>
-</p>
-
-<p  align="center">
 <a  href="https://go.dev"  target="blank"><img  src="https://go.dev/images/go-logo-white.svg"  width="180"  alt="GoLang Logo"  /></a>
 </p>
 
